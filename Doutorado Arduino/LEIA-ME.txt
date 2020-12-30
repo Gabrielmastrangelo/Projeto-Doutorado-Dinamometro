@@ -1,0 +1,8 @@
+Aqui está a última versão do projeto do Geraldo Canuto.
+
+Neste diretório foi instalado o git, estou aprendendo a usar o git
+e aproveitando para cuidar do arquivo do pai de uma maneira mais segura
+
+Obs: Tem dois arquivos importantes, o código em arduino, e o arquivo HMI
+do nextion, eu não sei qual dos dois abaixo é o último, mas provável que os
+dois sejam iguais.
